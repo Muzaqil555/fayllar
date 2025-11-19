@@ -1,0 +1,33 @@
+D:\GİTHUB\AllFileCommand\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.exe
+D:\GİTHUB\AllFileCommand\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.deps.json
+D:\GİTHUB\AllFileCommand\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.runtimeconfig.json
+D:\GİTHUB\AllFileCommand\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.dll
+D:\GİTHUB\AllFileCommand\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.pdb
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.Form1.resources
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.csproj.GenerateResource.cache
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.GeneratedMSBuildEditorConfig.editorconfig
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.AssemblyInfoInputs.cache
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.AssemblyInfo.cs
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.csproj.CoreCompileInputs.cache
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.dll
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\refint\AllFileCommand.dll
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.pdb
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.genruntimeconfig.cache
+D:\GİTHUB\AllFileCommand\AllFileCommand\obj\Debug\net8.0-windows\ref\AllFileCommand.dll
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.exe
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.deps.json
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.runtimeconfig.json
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.dll
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\bin\Debug\net8.0-windows\AllFileCommand.pdb
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.Form1.resources
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.csproj.GenerateResource.cache
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.AssemblyInfoInputs.cache
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.AssemblyInfo.cs
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.csproj.CoreCompileInputs.cache
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.sourcelink.json
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.dll
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\refint\AllFileCommand.dll
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.pdb
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\AllFileCommand.genruntimeconfig.cache
+C:\projects\c#\New folder\Tapsiriq 15\AllFileCommand\obj\Debug\net8.0-windows\ref\AllFileCommand.dll
